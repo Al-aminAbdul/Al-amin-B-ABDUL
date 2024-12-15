@@ -6,4 +6,7 @@ Education: Bachelor of Science in Information Technology
 
 Certifications: https://courses.cognitiveclass.ai/certificates/623445f4fa8f45afa9081b92285a5eb7
 
+ORACLE
+[Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24)] (https://github.com/JulQarnainCana/JulqarnainCana/)
+
 Skillsets: Java Programming, HTML5, C++, IBM SQL
